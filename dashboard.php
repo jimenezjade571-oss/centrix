@@ -27,6 +27,8 @@ if(!isset($_SESSION['user_id'])){
       <h3>BULACAN AGRICULTURAL STATE COLLEGE</h3>
     </div>
 
+  <div><h1>hi</h1></div>
+
     <button id="nightModeBtn">Night Mode</button>
 
     <div class="profile" data-target="profiling">
@@ -496,3 +498,4 @@ if(!isset($_SESSION['user_id'])){
 
 </body>
 </html>
+
